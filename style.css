@@ -43,6 +43,7 @@ body {
   text-align: center;
   background-color: #90a955;
   border-radius: 1vh;
+  box-shadow: 0.5vh 0.5vh #132a13;
 }
 
 .img-container {
@@ -87,4 +88,21 @@ body {
 #emma-food {
   background-image: url("./images/Emma-food.png");
   background-size: cover;
+}
+
+#footer {
+  background: #132a13;
+  color: #90a955;
+  width: 120vh;
+  text-align: center;
+  margin: 5vh;
+  padding: 2vh 5vh;
+  box-shadow: 1vh 1vh #90a955;
+  border-radius: 1vh;
+}
+
+.links {
+  font-size: larger;
+  font-weight: bold;
+  color: #ecf39e;
 }
