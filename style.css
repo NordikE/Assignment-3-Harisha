@@ -1,14 +1,3 @@
-/* /* .nav-bar {
-    height: 200px;
-}
-
-
-.logo {
-    height: 200px;
-    background-image: url("./Images/Emma-logo.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-} */
 body {
   font-family: "Agbalumo", cursive;
   color: #132a13;
@@ -26,11 +15,12 @@ body {
   display: flex;
   flex-direction: column;
 }
-.photos {
+.box {
   display: flex;
+  padding-top: 20px;
 }
 
-.box {
+.photos {
   padding: 1vh;
 }
 
