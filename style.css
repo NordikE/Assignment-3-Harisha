@@ -1,0 +1,85 @@
+/* /* .nav-bar {
+    height: 200px;
+}
+
+
+.logo {
+    height: 200px;
+    background-image: url("./Images/Emma-logo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+body {
+  font-family: "Agbalumo", cursive;
+  color: #132a13;
+  text-shadow: 0.1vh 0.1vh 1vh #d62828;
+  background: linear-gradient(45deg, #4f772d, #ecf39e);
+}
+#header {
+  width: 130vh;
+  text-align: center;
+  margin: 4vh;
+}
+
+.container {
+  margin: 2vh;
+  display: flex;
+  flex-direction: column;
+}
+.photos {
+  display: flex;
+}
+
+.box {
+  padding: 1vh;
+}
+
+.description {
+  width: 65vh;
+  height: 8vh;
+  text-align: center;
+}
+
+.img-container {
+  width: 60vh;
+  height: 90vh;
+  margin: 0 auto;
+  padding: 2vh;
+  border: 0.5vh solid white;
+  border-radius: 1vh;
+}
+
+#emma-box1 {
+  background-image: url("images/Emma-box1.png");
+  background-size: cover;
+}
+
+#emma-box2 {
+  background-image: url("images/Emma-box2.png");
+  background-size: cover;
+}
+
+#emma-bike1 {
+  background-image: url("images/Emma-bike1.png");
+  background-size: cover;
+}
+
+#emma-bike1:hover {
+  background-image: url("/Images/Emma-bike1-hover.png");
+  background-size: cover;
+}
+
+#emma-camping1 {
+  background-image: url("images/Emma-camping1.png");
+  background-size: cover;
+}
+
+#emma-camping2 {
+  background-image: url("images/Emma-camping2.png");
+  background-size: cover;
+}
+
+#emma-food {
+  background-image: url("images/Emma-food.png");
+  background-size: cover;
+}
