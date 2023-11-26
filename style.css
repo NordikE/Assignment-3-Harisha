@@ -55,36 +55,36 @@ body {
 }
 
 #emma-box1 {
-  background-image: url("images/Emma-box1.png");
+  background-image: url("./images/Emma-box1.png");
   background-size: cover;
 }
 
 #emma-box2 {
-  background-image: url("images/Emma-box2.png");
+  background-image: url("./images/Emma-box2.png");
   background-size: cover;
 }
 
 #emma-bike1 {
-  background-image: url("images/Emma-bike1.png");
+  background-image: url("./images/Emma-bike1.png");
   background-size: cover;
 }
 
 #emma-bike1:hover {
-  background-image: url("/Images/Emma-bike1-hover.png");
+  background-image: url("./Images/Emma-bike1-hover.png");
   background-size: cover;
 }
 
 #emma-camping1 {
-  background-image: url("images/Emma-camping1.png");
+  background-image: url("./images/Emma-camping1.png");
   background-size: cover;
 }
 
 #emma-camping2 {
-  background-image: url("images/Emma-camping2.png");
+  background-image: url("./images/Emma-camping2.png");
   background-size: cover;
 }
 
 #emma-food {
-  background-image: url("images/Emma-food.png");
+  background-image: url("./images/Emma-food.png");
   background-size: cover;
 }
