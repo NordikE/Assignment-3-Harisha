@@ -10,6 +10,7 @@ body {
   flex-direction: column;
   width: 140vh;
   border: 0.5vh solid #132a13;
+  border-radius: 1vh;
 }
 
 #header {
@@ -19,6 +20,7 @@ body {
   margin: 5vh;
   padding: 2vh 5vh;
   box-shadow: 1vh 1vh #132a13;
+  border-radius: 1vh;
 }
 
 .container {
@@ -40,6 +42,7 @@ body {
   height: 12vh;
   text-align: center;
   background-color: #90a955;
+  border-radius: 1vh;
 }
 
 .img-container {
