@@ -4,10 +4,21 @@ body {
   text-shadow: 0.1vh 0.1vh 1vh #d62828;
   background: linear-gradient(45deg, #4f772d, #ecf39e);
 }
+
+#mainpage {
+  display: flex;
+  flex-direction: column;
+  width: 140vh;
+  border: 0.5vh solid #132a13;
+}
+
 #header {
-  width: 130vh;
+  background: #90a955;
+  width: 120vh;
   text-align: center;
-  margin: 4vh;
+  margin: 5vh;
+  padding: 2vh 5vh;
+  box-shadow: 1vh 1vh #132a13;
 }
 
 .container {
@@ -26,16 +37,17 @@ body {
 
 .description {
   width: 65vh;
-  height: 8vh;
+  height: 12vh;
   text-align: center;
+  background-color: #90a955;
 }
 
 .img-container {
-  width: 60vh;
-  height: 90vh;
+  width: 40vh;
+  height: 60vh;
   margin: 0 auto;
-  padding: 2vh;
-  border: 0.5vh solid white;
+  padding: 5vh;
+  border: 0.5vh solid #132a13;
   border-radius: 1vh;
 }
 
